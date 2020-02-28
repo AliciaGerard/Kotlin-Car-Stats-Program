@@ -1,6 +1,6 @@
 # Car Stats program Fall 2019 
  
- This program allows the user to enter gas data to keep track of milage for their vehicle 
+ This program allows the user to enter gas data to keep track of mileage for their vehicle 
  
   - It asks the user for three things
     - Gallons of gas pumped
